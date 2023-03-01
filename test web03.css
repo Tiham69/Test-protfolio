@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(221, 236, 237);
+    text-align: center;
+}
+
+
+.me-dis {
+    margin-top: 50px;
+    padding-right: 20%;
+}
+
+.img {
+    border-radius: 10px;
+    size: 20%;
+    float: left;
+    margin-right: 20px;
+    width: 30%;
+    float: left;
+}
+
+.me-dis2 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+c .bkash {
+    font-weight: bold;
+    color: blue;
+}
+
+#git,
+#fb {
+    padding: 10px;
+}
+
+#git a,
+#fb a,
+.bkash a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#git:hover,
+#fb:hover,
+.bkash:hover {
+    background-color: gray;
+}
+
+.self-info {
+    margin-top: 50px;
+}
+
+.me-dis {
+    font-weight: bold;
+}
+
+.footT {
+    text-align: center end;
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+#links {
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 0px;
+    width: fit-content;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.footT {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.img {
+    border-radius: 5px;
+    float: left;
+    width: 30%;
+    margin: 10px;
+}
+
+.me-dis2 {
+    clear: both;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
